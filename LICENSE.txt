@@ -1,0 +1,7 @@
+LICENSE FILE, OCTOBER 27, 2025
+Health Sector Structural Change
+Nick Pretnar and Maria Feldman
+
+All data used in this paper's computations and quantitative results are publicly available at the Bureau of Labor Statistics, Bureau of Economic Analysis, Federal Reserve Bank of St. Louis, National Center for Health Statisticxs.
+
+The authors retain all copyrights to code and underlying programs.
